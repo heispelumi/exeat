@@ -1,3 +1,3 @@
 # Exeat Project
 
-Other details about the project
+Exeat system for educational institutes 
